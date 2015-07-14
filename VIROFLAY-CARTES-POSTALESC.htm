@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--  --------------------------------------------------------------------------  -->
+<!--  | Auteur        | Version | Date       | Commentaires                    |  -->
+<!--  --------------------------------------------------------------------------  -->
+<!--  | P. BERGE      |  01.00  | 17/06/2014 | Créat. Cartes postales Viroflay |  -->
+<!--  --------------------------------------------------------------------------  -->
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+   <head profile="http://gmpg.org/xfn/11">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ 
+      <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+	  <link rel="stylesheet" href="CSS/screen.css" />
+	  <link rel="stylesheet" href="CSS/MarkerCluster.css" />
+	  <link rel="stylesheet" href="CSS/MarkerCluster.Default.css" />
+
+      
+      <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
+      <script type='text/javascript' src='http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'></script>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <script src="JS/leaflet.markercluster-src.js"></script>
+
+   </head>
+ 
+   <body>
+      <h3>Viroflay : Cartes postales anciennes.</h3>
+      
+      <div id="map" style="height: 540px; border: 1px solid #AAA;"></div>
+      
+      <script type='text/javascript' src='JS/viroflay-baselayers.js'></script>
+      <script type='text/javascript' src='JSON/viroflay-limits.json'></script>      
+      <script type='text/javascript' src='JS/viroflay-limits.js'></script>
+	  <script type='text/javascript' src='JSON/viroflay-CP-RD.json'></script>
+	  <script type='text/javascript' src='JSON/viroflay-CP-RG.json'></script>
+      <script type='text/javascript' src='JS/viroflay-cpc.js'></script>
+
+
+   </body>
+</html>

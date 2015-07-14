@@ -1,0 +1,36 @@
+//Viroflay Rive Gauche
+//
+var rg = [
+[48.802635, 2.171043,"21. Viroflay (S. et O.) - Groupe scolaire","http://www.cartophilie-viroflay.org/IMG/jpg/ecole_plateau96.jpg"],
+[48.801996, 2.170801,"17. Viroflay - Les écoles et la rue Rieussec","http://www.cartophilie-viroflay.org/IMG/jpg/ecoles_arcades_navale.jpg"],
+[48.798618, 2.166413,"43. Viroflay - La chaumière et Avenue de Versailles","http://www.cartophilie-viroflay.org/IMG/jpg/chaumdesc.jpg"],
+[48.799777, 2.175699,"3. Viroflay - Avenue de Chaville","http://www.cartophilie-viroflay.org/IMG/jpg/boissierlong.jpg"],
+[48.800165, 2.176482,"Viroflay - Lotissement du Haras","http://www.cartophilie-viroflay.org/IMG/jpg/malouet1_50_2_.jpg"],
+[48.801996, 2.170801,"1. Viroflay - La sablière près la Chaumière","http://www.cartophilie-viroflay.org/IMG/jpg/sabliere_2personnes.jpg"],
+[48.801996, 2.170801,"21. Viroflay - La grande sablière","http://www.cartophilie-viroflay.org/IMG/jpg/sabliere__96.jpg"],
+[48.801996, 2.170801,"4. Viroflay - La route de la sablière","http://www.cartophilie-viroflay.org/IMG/jpg/route_sabliere.jpg"],
+[48.801324, 2.170989,"Viroflay - La gare Rive Gauche","http://www.cartophilie-viroflay.org/IMG/jpg/gareRG5_75.jpg"],
+[48.800208, 2.171247,"30. Viroflay - La gare Rive Gauche","http://www.cartophilie-viroflay.org/IMG/jpg/gareRG_96_cimetiere.jpg"],
+[48.800409, 2.171273,"3918. Viroflay - Rue Rieussec","http://www.cartophilie-viroflay.org/IMG/jpg/sully_vauban_96.jpg"],
+[48.801193, 2.172373,"828. Viroflay - Rue Hyppolite Mazé","http://www.cartophilie-viroflay.org/IMG/jpg/maze_96.jpg"],
+[48.799716, 2.166966,"3917. Viroflay - La sous-station électrique","http://www.cartophilie-viroflay.org/IMG/jpg/sous_station_96.jpg"],
+[48.796981, 2.175335,"11. Viroflay - Le chêne à la Vierge","http://www.cartophilie-viroflay.org/IMG/jpg/chene_drapeaux.jpg"],
+[48.797031, 2.174852,"2. Viroflay - Carrefour du chêne de la Vierge","http://www.cartophilie-viroflay.org/IMG/jpg/chenevierge.jpg"],
+[48.797108, 2.175152,"Viroflay - Pélerinage de notre dame du chêne","http://www.cartophilie-viroflay.org/IMG/jpg/NDchenecoupe96.jpg"],
+[48.798656, 2.165485,"Viroflay - Entrée de la forêt Restaurant de la Chaumière","http://www.cartophilie-viroflay.org/IMG/jpg/chaumiere_96.jpg"],
+[48.798741, 2.165829,"Viroflay - Hôtel Restaurant de la Chaumière","http://www.cartophilie-viroflay.org/IMG/jpg/chaumiereRedde96.jpg"],
+[48.798649, 2.166505,"43. Viroflay - La Chaumière et Avenue de Versailles","http://www.cartophilie-viroflay.org/IMG/jpg/chaumdesc.jpg"],
+[48.799582, 2.171494,"19. Viroflay - L'église","http://www.cartophilie-viroflay.org/IMG/jpg/eustache4_75.jpg"],
+[48.799419, 2.172009,"19. Viroflay - Eglise (ancien oratoire de Louis XIV)","http://www.cartophilie-viroflay.org/IMG/jpg/village_foule.jpg"],
+[48.797949, 2.173425,"1839. Viroflay (S&O) - Le chateau de Gaillon vu du parc","http://www.cartophilie-viroflay.org/IMG/jpg/chateaugaillon.jpg"],
+[48.799752, 2.173897,"Viroflay - L'hotel de ville sur les jardins","http://www.cartophilie-viroflay.org/IMG/jpg/arriere_mairie_96.jpg"],
+[48.799525, 2.172620,"3922. Viroflay - La mairie","http://www.cartophilie-viroflay.org/IMG/jpg/facademairie.jpg"],
+[48.799038, 2.167663,"41. Viroflay - Avenue de Versailles villa du cèdre","http://www.cartophilie-viroflay.org/IMG/jpg/vigor96-2.jpg"],
+[48.801865, 2.169916,"Viroflay - Clos Saint Vigor","http://www.cartophilie-viroflay.org/IMG/jpg/clos_vigor_96.jpg"],
+[48.798790, 2.179658,"39. Viroflay - Place Jeanne d'Arc - Rue Pasteur","http://www.cartophilie-viroflay.org/IMG/jpg/Pasteur_96.jpg"],
+[48.802918, 2.172792,"3914. Viroflay - L'hotel de ville","http://www.cartophilie-viroflay.org/IMG/jpg/mairie_facerue.jpg"],
+[48.802918, 2.172781,"3915. Viroflay - La maison des enfants","http://www.cartophilie-viroflay.org/IMG/jpg/maison_enfants_75.jpg"],
+[48.799356, 2.171504,"11. Viroflay - Place de l'église - carrefour des rue Rieussec et Versailles","http://www.cartophilie-viroflay.org/IMG/jpg/cafe_cerisier_96.jpg"],
+[48.799540, 2.172642,"26. Viroflay - Rue de Versailles","http://www.cartophilie-viroflay.org/IMG/jpg/rue_de_versailles_A96.jpg"]
+
+];

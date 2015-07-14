@@ -1,0 +1,29 @@
+busstop = [
+   {
+     "name": "Les fleurs",
+     "lat": 48.804791,  
+     "lng": 2.179620
+   },
+   {
+     "name": "Grâce de Dieu",
+     "lat": 48.804042, 
+     "lng": 2.175490
+   },
+   {
+     "name": "Gabriel Péri",
+     "lat": 48.804070,
+     "lng": 2.168570
+   },
+   {
+     "name": "Président Doumer",
+     "lat": 48.803172,
+     "lng": 2.166006
+   },
+   {
+     "name": "Pierre Edouard",
+     "lat": 48.800650,
+     "lng": 2.161725
+   }
+];
+
+

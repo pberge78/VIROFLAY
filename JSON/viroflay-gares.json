@@ -1,0 +1,20 @@
+stations = [
+   {
+     "name": "Gare Viroflay Rive Droite",
+     "url": "http://monrer.fr/?s=VFD",
+     "lat": 48.805578,
+     "lng": 2.168130
+   },
+   {
+     "name": "Gare Viroflay Rive Gauche",
+     "url": "http://monrer.fr/?s=VFG",
+     "lat": 48.800674,
+     "lng": 2.171123
+   },
+   {
+     "name": "Gare Chaville Vélizy",
+     "url": "http://monrer.fr/?s=CHV",
+     "lat": 48.799600,
+     "lng": 2.183976
+   }
+];

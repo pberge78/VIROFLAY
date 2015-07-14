@@ -1,0 +1,17 @@
+//Viroflay Rive Droite
+//
+var rd = [[48.805465,2.167615,"36. VIROFLAY - Gare Rive droite","http://www.cartophilie-viroflay.org/IMG/jpg/gareRD3zoom_300.jpg"],[48.805477, 2.169047,"2. Intérieur de la gare de VIROFLAY (R.D.)","http://www.cartophilie-viroflay.org/IMG/jpg/gareRD_96.jpg"],[48.805474, 2.169205,"10. La gare de VIROFLAY (R.D.)","http://www.cartophilie-viroflay.org/IMG/jpg/gareRD96.jpg"],[48.805490, 2.167982,"Viroflay - panorama de la rive gauche pris de la rive droite","http://www.cartophilie-viroflay.org/IMG/jpg/panoramaRDRG.jpg"],[48.805562, 2.168570,"2. Viroflay (S. et O.) Vue du quartier du marais - panorama","http://www.cartophilie-viroflay.org/IMG/jpg/gare_RD_agence_96.jpg"],[48.805580, 2.169010,"4001. VIROFLAY Un coin de la gare Rive droite","http://www.cartophilie-viroflay.org/IMG/jpg/gare_brouette.jpg"],[48.805361, 2.169417,"5. VIROFLAY - Pont du chemin de fer (Rive droite)","http://www.cartophilie-viroflay.org/IMG/jpg/saussaye_96b.jpg"],[48.8788656,2.2940107,"4. VIROFLAY - Voûte du chemin de fer de l'Ouest","http://www.cartophilie-viroflay.org/IMG/jpg/saussayepont96a.jpg"],[48.805459, 2.169350,"6. VIROFLAY - la voûte du chemin de fer de et la rue de la Saussaye","http://www.cartophilie-viroflay.org/IMG/jpg/voute_saussaye.jpg"],[48.805585, 2.169256,"3. VIROFLAY - Rue de la Saussaye","http://www.cartophilie-viroflay.org/IMG/jpg/descentegare.jpg"],
+[48.804371, 2.169519,"VIROFLAY - La route de la Saussaye","http://www.cartophilie-viroflay.org/IMG/jpg/saussaye_96a.jpg"],
+[48.805426, 2.169353,"VIROFLAY - Descente de la Saussaye","http://www.cartophilie-viroflay.org/IMG/jpg/saussayedescente-2.jpg"],
+[48.805127, 2.169702,"VIROFLAY (S. et O.)- Rue des glaises","http://www.cartophilie-viroflay.org/IMG/jpg/glaises_large.jpg"],
+[48.805940, 2.180156,"VIROFLAY (S. et O.)- Rue des marais","http://www.cartophilie-viroflay.org/IMG/jpg/maraisNB.jpg"],
+[48.805565, 2.181358,"3. Viroflay (S. et O.)- Rue des glaises","http://www.cartophilie-viroflay.org/IMG/jpg/Marais_96.jpg"],
+[48.807469, 2.175276,"975. VIROFLAY (S. et O.)- Le plateau - Les villas","http://www.cartophilie-viroflay.org/IMG/jpg/lesvillas96-2.jpg"],
+[48.806311, 2.177915,"13. VIROFLAY - Le pont de bois","http://www.cartophilie-viroflay.org/IMG/jpg/pont_bois_96.jpg"],
+[48.805844, 2.177755,"Viroflay - Le pont de bois et la plaine","http://www.cartophilie-viroflay.org/IMG/jpg/pont_de_bois96.jpg"],
+[48.805731, 2.178162,"Viroflay - Le pont de bois","http://www.cartophilie-viroflay.org/IMG/jpg/pontdebois_elegante.jpg"],
+[48.805710, 2.177937,"3935. VIROFLAY - Vue générale","http://www.cartophilie-viroflay.org/IMG/jpg/maraispanorama.jpg"],
+[48.805865, 2.180276,"1. Viroflay (S. et O.) - L'usine des eaux","http://www.cartophilie-viroflay.org/IMG/jpg/terraindeseaux_colo.jpg"],
+[48.809264, 2.177615,"926. VIROFLAY - Un coin champêtre","http://www.cartophilie-viroflay.org/IMG/jpg/chevrier.jpg"],
+[48.805611, 2.177122,"899. VIROFLAY - Vue générale","http://www.cartophilie-viroflay.org/IMG/jpg/vueg-n-.jpg"]
+];
